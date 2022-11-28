@@ -30,7 +30,7 @@ global.wktuwib = `${global.wibh} H ${global.wibm} M ${global.wibs} S`
 // Kalau gapunya di biarin aja!, atau ga di kasih tanda '-'
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/eabdalmufid_' //Instagram mu
+global.sig = 'https://instagram.com/xeyrixstore' //Instagram mu
 global.sgh = 'https://github.com/eabdalmufid' //Github mu
 global.swb = 'https://linktr.ee/whatsappbotz '
 global.sfb = 'https://www.facebook.com/'
@@ -40,27 +40,27 @@ global.sdc = 'https://www.youtube.com/@silencebot' //Discord Mu
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*⫘⫘⫘⫘ALL PAYMENT⫘⫘⫘⫘⫘*/
-global.pdana = '089509952003' //Dana
-global.povo = '089509952003' //Ovo
-global.pgopay = '089509952003' //Gopay
-global.ppulsa = '089509952003' //Pulsa 
-global.ppulsa2 = '0881080130122' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
+global.pdana = '-' //Dana
+global.povo = '081280020649' //Ovo
+global.pgopay = '081280020649' //Gopay
+global.ppulsa = '081280020649' //Pulsa 
+global.ppulsa2 = '-' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
 global.psaweria = 'https://bit.ly/QRISPAY' //Saweria
 global.donate = '〔 Dᴏɴᴛ ғᴏʀɢᴇᴛ Dᴏɴᴀᴛɪᴏɴ 〕\n\n››╭─〘 *Donasi* 〙\n╭╡📮: Donasi Ngab, Jangan Makai Bot doang.│\n┝‷✧ *Ovo:* 089509952003\n│┝‷✧ *Dana:* 089509952003\n│┝‷✧ *Gopay:* 089509952003\n│╰───···─────\n│⁺◛˖ Ingin Donasi? Chat nomor owner\n╰──────────···───╮'
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
-global.nomorbot = '6287787369563' //Nomor Bot mu
-global.nomorown = '19047502362' //Nomormu
-global.namebot = 'Silence BOT' //Nama bot mu
-global.nameown = 'AngelDark' //Nama mu
+global.nomorbot = '6281586594062' //Nomor Bot mu
+global.nomorown = '6281280020649' //Nomormu
+global.namebot = 'Xeyrix BOT' //Nama bot mu
+global.nameown = 'Xeyrix' //Nama mu
 
 /*⫘⫘⫘⫘GLOBAL FUNCTION⫘⫘⫘⫘⫘*/
 //KALAU MAGER EDIT, MENDING GAUSAH DI APA² IN. SAMA AJA//
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰' //Gausah di apa² in
 global.after = 'Bot by https://linktr.ee/whatsappbotz'
-global.swo = 'https://wa.me/19047502362'
-global.author = '           © Silence BOT By AngelDark' //Wm author
-global.botintro = 'Hallo, Kenalin saya Silence BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *AngelDark* Saya di rilis pada tanggal\n🗓 ️_13/01/2022_'
+global.swo = 'https://wa.me/6281280020649'
+global.author = '           © Xeyrix BOT By Xeyrix' //Wm author
+global.botintro = 'Hallo, Kenalin saya Xeyrix BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *Xeyrix* Saya di rilis pada tanggal\n🗓 ️_13/01/2022_'
 global.sallam = '💬 Waalaikumsallam'
 global.thumbBanned = 'https://telegra.ph/file/b810a9fbc18afc1aaa6c8.jpg'
 global.thumbWarn = 'https://telegra.ph/file/38f72943a6f152112d128.jpg'
@@ -84,9 +84,9 @@ global.guest = 'https://telegra.ph/file/b0ac5006061e9bc535a8f.jpg'
 global.thumbmenfes = 'https://telegra.ph/file/4be6353aeb9057e44825f.jpg'
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
 global.owner = [
-  ['6287787369563'], //Owner1
-  ['79680341674'], //Owner2
-  ['6287787369563', 'AngelDark', true] //Ini buat kamu!
+  ['6281280020649'], //Owner1
+  ['6281280020649'], //Owner2
+  ['6281280020649', 'Xeyrix', true] //Ini buat kamu!
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -469,10 +469,10 @@ global.fsizedoc = '99999999999999' // 10TB
 global.fpagedoc = '999' //Gausah di ganti.
 
 /*⫘⫘⫘⫘ BIO OWNER ⫘⫘⫘⫘⫘*/
-global.nameowner = 'AngelDark'
-global.umurowner = '20'
+global.nameowner = 'Xeyrix'
+global.umurowner = '14'
 global.asalowner = 'Yogyakarta, Jawa tengah'
-global.nomorowner = 'wa.me/19047502362'
+global.nomorowner = 'wa.me/6281280020649'
 global.pacarowner = 'Ga ada pacar'
 /*⫘⫘⫘⫘ HIASAN ⫘⫘⫘⫘⫘*/
 // DEFAULT MENU
@@ -503,9 +503,9 @@ global.fsizedoc = '1'.repeat(10)
 global.fpagedoc = '1'.repeat(10)
 
 /*⫘⫘⫘⫘ STICKER ⫘⫘⫘⫘⫘*/
-global.stickpack = 'YT: Silence Ofc'
-global.stickauth = `© Silence BOT\nOfficial by Whatsapp\nNomor: ${global.nomorbot}`
-global.packname = 'By AngelDark'
+global.stickpack = 'Xeyrix'
+global.stickauth = `© Xeyrix BOT\nOfficial by Whatsapp\nNomor: ${global.nomorbot}`
+global.packname = 'By Xeyrix'
 
 
 global.multiplier = 38 // The higher, The harder levelup
